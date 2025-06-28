@@ -9,7 +9,7 @@ A modern Tic Tac Toe game built with **React.js** featuring:
 
 ## 📸 Screenshot
 
-![Game Screenshot]([https://via.placeholder.com/800x400.png?text=Tic+Tac+Toe+React+Game](https://github.com/harshbaluni/react-TicTacToe/blob/main/UI.PNG?raw=true))
+![Game Screenshot]([[https://via.placeholder.com/800x400.png?text=Tic+Tac+Toe+React+Game](https://github.com/harshbaluni/react-TicTacToe/blob/main/UI.PNG?raw=true)](https://raw.githubusercontent.com/harshbaluni/react-TicTacToe/refs/heads/main/screenshot.png))
 
 ## 🔧 Technologies Used
 
